@@ -1,0 +1,17 @@
+#welcome {
+    text-align: center;
+    max-width: 500px;
+  }
+  
+  #welcome h2,
+  #welcome h4{
+    margin-bottom: 1rem;
+  }
+  
+  #welcome h4 {
+    color: #070708;
+  }
+  
+  #welcome img {
+    margin-top: 2rem;
+  }

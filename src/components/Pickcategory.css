@@ -1,0 +1,24 @@
+#cat {
+  text-align: center;
+  max-width: 500px;
+}
+
+#cat h2,
+#cat p {
+  margin-bottom: 1rem;
+}
+
+#cat h4 {
+  color: #080707;
+}
+
+#cat img {
+  margin-top: 2rem;
+  max-width: 300px;
+}
+
+#cat button {
+  margin: 1rem;
+}
+
+
